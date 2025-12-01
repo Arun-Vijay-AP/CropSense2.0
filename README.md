@@ -16,23 +16,24 @@ CropSense uses a trained ML model to analyze **Nitrogen (N), Phosphorus (P), Pot
 ---
 
 ## 📁 Project Structure
-CropSense/
-│── backend/
-│ ├── app.py
-│ ├── model.pkl
-│ ├── requirements.txt
-│ ├── .env (not included in repo)
-│
-│── frontend/
-│ ├── src/
-│ │ ├── App.jsx
-│ │ ├── components/
-│ │ └── pages/
-│ ├── public/
-│ ├── package.json
-│
-│── README.md
-
+```bash
+  CropSense/
+  │── backend/
+  │ ├── app.py
+  │ ├── model.pkl
+  │ ├── requirements.txt
+  │ ├── .env (not included in repo)
+  │
+  │── frontend/
+  │ ├── src/
+  │ │ ├── App.jsx
+  │ │ ├── components/
+  │ │ └── pages/
+  │ ├── public/
+  │ ├── package.json
+  │
+  │── README.md
+```
 ---
 
 ## 🧠 Machine Learning Model
