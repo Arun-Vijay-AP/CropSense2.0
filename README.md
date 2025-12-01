@@ -11,7 +11,9 @@ CropSense uses a trained ML model to analyze **Nitrogen (N), Phosphorus (P), Pot
 - 🎨 **Modern UI** using **React + Tailwind CSS**  
 - 🔗 **Backend API** using **Flask**  
 - 🗂️ **Clean project structure**  
-- 🔐 **Environment variables protected (.env)**  
+- 🔐 **Environment variables protected (.env)**
+  <img width="1895" height="976" alt="image" src="https://github.com/user-attachments/assets/bba4fe98-f576-423d-97f3-83fdd53d2390" />
+
 
 ---
 
@@ -51,6 +53,7 @@ The model is trained on the **Crop Recommendation Dataset**, using features:
 ### 🔍 Algorithm Used  
 - **Random Forest Classifier** (Best accuracy)  
 - Preprocessed using Normalization & Label Encoding  
+<img width="1896" height="977" alt="image" src="https://github.com/user-attachments/assets/49245bef-fae3-42f9-850f-fb6ea954fd68" />
 
 ---
 
@@ -68,3 +71,4 @@ The model is trained on the **Crop Recommendation Dataset**, using features:
 - NumPy, Pandas  
 
 ---
+<img width="1899" height="978" alt="image" src="https://github.com/user-attachments/assets/8dbe1614-8677-429c-98a5-eb1fe40e76eb" />
