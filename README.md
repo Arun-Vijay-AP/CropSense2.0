@@ -2,7 +2,7 @@
 A machine learning–powered web application that recommends the **best crop to grow** based on soil and environmental conditions.  
 
 CropSense uses a trained ML model to analyze **Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH, and Rainfall** to suggest the most suitable crop for farming.
-
+<img width="1895" height="976" alt="image" src="https://github.com/user-attachments/assets/bba4fe98-f576-423d-97f3-83fdd53d2390" />
 ---
 
 ## 🚀 Features
@@ -12,7 +12,7 @@ CropSense uses a trained ML model to analyze **Nitrogen (N), Phosphorus (P), Pot
 - 🔗 **Backend API** using **Flask**  
 - 🗂️ **Clean project structure**  
 - 🔐 **Environment variables protected (.env)**
-  <img width="1895" height="976" alt="image" src="https://github.com/user-attachments/assets/bba4fe98-f576-423d-97f3-83fdd53d2390" />
+  
 
 
 ---
